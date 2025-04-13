@@ -1,1 +1,4 @@
-// JavaScript file created
+//JavaScript file created
+function load(){
+
+}
